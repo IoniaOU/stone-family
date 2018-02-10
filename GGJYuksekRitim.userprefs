@@ -1,0 +1,22 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\FinishController.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Control.cs" Line="24" Column="4" />
+      <File FileName="Assets\Scripts\LevelCreator.cs" Line="77" Column="36" />
+      <File FileName="Assets\Scripts\ColliderControl.cs" Line="25" Column="50" />
+      <File FileName="Assets\Scripts\Cube.cs" Line="10" Column="31" />
+      <File FileName="Assets\Scripts\GameMap\Cell.cs" Line="21" Column="2" />
+      <File FileName="Assets\Scripts\GameMap\Matrix.cs" Line="97" Column="1" />
+      <File FileName="Assets\Scripts\PlayerFollower.cs" Line="18" Column="3" />
+      <File FileName="Assets\Scripts\Tutorial.cs" Line="6" Column="2" />
+      <File FileName="Assets\Scripts\Target.cs" Line="13" Column="17" />
+      <File FileName="Assets\Scripts\MenuController.cs" Line="17" Column="22" />
+      <File FileName="Assets\Scripts\FinishController.cs" Line="15" Column="29" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
